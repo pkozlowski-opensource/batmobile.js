@@ -1,0 +1,26 @@
+{
+  "name": "batmobile.js",
+  "version": "0.0.1",
+  "description": "A super-powered car built on JS from the future",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkozlowski-opensource/batmobile.js"
+  },
+  "keywords": [
+    "es6",
+    "npm",
+    "batman",
+    "car"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkozlowski-opensource/batmobile.js/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-traceur": "~0.1.3"
+  },
+  "dependencies": {
+    "hydrogen-boosted-engine": "0.0.1"
+  }
+}
