@@ -1,6 +1,6 @@
 {
   "name": "batmobile.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A super-powered car built on JS from the future",
   "repository": {
     "type": "git",
@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "Diary.js": "git://github.com/angular/diary.js.git#master",
-    "hydrogen-boosted-engine": "0.0.1"
+    "hydrogen-boosted-engine": "~0.0.2"
   }
 }
