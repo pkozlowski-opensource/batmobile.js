@@ -16,7 +16,9 @@ export class Batmobile {
 
 }
 
-Diary.reporter(new ConsoleReporter({}), {
+Diary.reporter(new ConsoleReporter({
+  console: window.console
+}), {
   level: ['info']
 });
 
