@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "Diary.js": "git://github.com/angular/diary.js.git#master",
-    "hydrogen-boosted-engine": "~0.0.2"
+    "di": "2.0.0-pre-1",
+    "hydrogen-boosted-engine": "~0.0.3"
   }
 }
