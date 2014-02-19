@@ -1,0 +1,254 @@
+{
+  "Diary.js": {
+    "0.0.0": "*"
+  },
+  "ansi": {
+    "0.2.1": "3ab568ec18cd0ab7753c83117d57dad684a1c017"
+  },
+  "ansi-styles": {
+    "1.0.0": "cb102df1c56f5123eab8b67cd7b98027a0279178"
+  },
+  "archy": {
+    "0.0.2": "910f43bf66141fc335564597abc189df44b3d35e"
+  },
+  "chalk": {
+    "0.4.0": "5199a3ddcd0c1efe23bc08c1b027b06176e0c64f"
+  },
+  "clone-stats": {
+    "0.0.1": "b88f94a82cf38b8791d58046ea4029ad88ca99d1"
+  },
+  "collections": {
+    "0.2.2": "1f23026b2ef36f927eecc901e99c5f0d48fa334e"
+  },
+  "commander": {
+    "2.1.0": "d121bbae860d9992a3d517ba96f56588e47c6781"
+  },
+  "dateformat": {
+    "1.0.7-1.2.3": "ebb561bb7214ee57a8dc2687adab1d555de9419c"
+  },
+  "deprecated": {
+    "0.0.1": "f9c9af5464afa1e7a971458a8bdef2aa94d5bb19"
+  },
+  "di": {
+    "2.0.0-pre-1": "9da45fbd7e08e94dafbecef89cfa2f2b4bab751b"
+  },
+  "duplexer2": {
+    "0.0.1": "f8a276687b0b122a466e2bbc8f6a22043cb15d26"
+  },
+  "es6-shim": {
+    "0.9.3": "00c725e75b0ae4d322e6ccbd87484a800237f03a"
+  },
+  "findup-sync": {
+    "0.1.2": "da2b96ca9f800e5a13d0a11110f490b65f62e96d"
+  },
+  "gaze": {
+    "0.4.3": "e538f4ff5e4fe648f473a97e1ebb253d2de127b5"
+  },
+  "github-url-from-git": {
+    "1.1.1": "1f89623453123ef9623956e264c60bf4c3cf5ccf"
+  },
+  "glob": {
+    "3.1.21": "d29e0a055dea5138f4d07ed40e8982e83c2066cd",
+    "3.2.8": "5506f4311721bcc618c7d8dba144188750307073"
+  },
+  "glob-stream": {
+    "3.1.9": "b7ab0a07ba912de31686a4cb3efd43872e67f552"
+  },
+  "glob-watcher": {
+    "0.0.3": "663d7256ab5eed3560a4125f743737fa4d70cdb3"
+  },
+  "glob2base": {
+    "0.0.8": "bcfc6d51efa4df0bd93f9a5685f0430db1f0b7d0"
+  },
+  "globule": {
+    "0.1.0": "d9c8edde1da79d125a151b79533b978676346ae5"
+  },
+  "graceful-fs": {
+    "1.1.14": "07078db5f6377f6321fceaaedf497de124dc9465",
+    "1.2.3": "15a4806a57547cb2d2dbf27f42e89a8c3451b364",
+    "2.0.2": "26806eaca4bff8fc5dbc935e696135792175c46f"
+  },
+  "gulp": {
+    "3.5.2": "efdbcf8fa2aa1f686a094d3e57c9221965abbf76"
+  },
+  "gulp-traceur": {
+    "0.1.3": "14a870cbbcf9af6b483864aa380ed708c6e7b884"
+  },
+  "gulp-util": {
+    "2.2.14": "705a44e3624a7e44f5fdf70a3e91f3087ff83ba1"
+  },
+  "has-color": {
+    "0.1.4": "d1dadeea5b9e8b446bf08603532333710c95a290"
+  },
+  "hydrogen-boosted-engine": {
+    "0.0.3": "93e63a0d96b88c827c4c18a5da679acf5bfe0182"
+  },
+  "inherits": {
+    "1.0.0": "38e1975285bf1f7ba9c84da102bb12771322ac48",
+    "2.0.1": "b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+  },
+  "lockdown": {
+    "0.0.5": "6bbcc01b7d2a3894a712f135b2675a078ede24c7"
+  },
+  "lodash": {
+    "1.0.1": "57945732498d92310e5bd4b1ff4f273a79e6c9fc"
+  },
+  "lodash._escapehtmlchar": {
+    "2.4.1": "df67c3bb6b7e8e1e831ab48bfa0795b92afe899d"
+  },
+  "lodash._escapestringchar": {
+    "2.4.1": "ecfe22618a2ade50bfeea43937e51df66f0edb72"
+  },
+  "lodash._htmlescapes": {
+    "2.4.1": "32d14bf0844b6de6f8b62a051b4f67c228b624cb"
+  },
+  "lodash._isnative": {
+    "2.4.1": "3ea6404b784a7be836c7b57580e1cdf79b14832c"
+  },
+  "lodash._objecttypes": {
+    "2.4.1": "7c0b7f69d98a1f76529f890b0cdb1b4dfec11c11"
+  },
+  "lodash._reinterpolate": {
+    "2.4.1": "4f1227aa5a8711fc632f5b07a1f4607aab8b3222"
+  },
+  "lodash._reunescapedhtml": {
+    "2.4.1": "747c4fc40103eb3bb8a0976e571f7a2659e93ba7"
+  },
+  "lodash._shimkeys": {
+    "2.4.1": "6e9cc9666ff081f0b5a6c978b83e242e6949d203"
+  },
+  "lodash.defaults": {
+    "2.4.1": "a7e8885f05e68851144b6e12a8f3678026bc4c54"
+  },
+  "lodash.escape": {
+    "2.4.1": "2ce12c5e084db0a57dda5e5d1eeeb9f5d175a3b4"
+  },
+  "lodash.isobject": {
+    "2.4.1": "5a2e47fe69953f1ee631a7eba1fe64d2d06558f5"
+  },
+  "lodash.keys": {
+    "2.4.1": "48dea46df8ff7632b10d706b8acb26591e2b3727"
+  },
+  "lodash.template": {
+    "2.4.1": "9e611007edf629129a974ab3c48b817b3e1cf20d"
+  },
+  "lodash.templatesettings": {
+    "2.4.1": "ea76c75d11eb86d4dbe89a83893bb861929ac699"
+  },
+  "lodash.values": {
+    "2.4.1": "abf514436b3cb705001627978cbcf30b1280eea4"
+  },
+  "lru-cache": {
+    "2.5.0": "d82388ae9c960becbea0c73bb9eb79b6c6ce9aeb"
+  },
+  "map-stream": {
+    "0.1.0": "e56aa94c4c8055a16404a0674b78f215f7c8e194"
+  },
+  "mime": {
+    "1.2.11": "58203eed86e3a5ef17aed2b7d9ebd47f0a60dd10"
+  },
+  "mimeparse": {
+    "0.1.4": "dafb02752370fd226093ae3152c271af01ac254a"
+  },
+  "minimatch": {
+    "0.2.14": "c74e780574f63c6f9a090e90efbe6ef53a6a756a"
+  },
+  "minimist": {
+    "0.0.7": "dc4c620253c542eda0d2eb91c3c6a971a11e63e7"
+  },
+  "mkdirp": {
+    "0.3.5": "de3e5f8961c88c787ee1368df849ac4413eca8d7"
+  },
+  "multipipe": {
+    "0.0.1": "537286e6edfcfc85e9f7e568e1f50d82381b6196"
+  },
+  "normalize-package-data": {
+    "0.1.7": "f216a318a868214892e89ad80a944cddc1a79615"
+  },
+  "npmlog": {
+    "0.0.6": "685043fe71aa1665d6e3b2acef180640caf40873"
+  },
+  "object-keys": {
+    "0.4.0": "28a6aae7428dd2c3a92f3d95f21335dd204e0336"
+  },
+  "orchestrator": {
+    "0.3.3": "308f80c6c956b3c27f6e4f98d28653fa872e6941"
+  },
+  "ordered-read-streams": {
+    "0.0.7": "64fb9a2e15c6513a5508389bd6df6829fad91ce9"
+  },
+  "osenv": {
+    "0.0.3": "cd6ad8ddb290915ad9e22765576025d411f29cb6"
+  },
+  "pretty-hrtime": {
+    "0.2.0": "71a782bf15642a895d83e6f6a425e0ad99cb8539"
+  },
+  "q": {
+    "0.9.7": "4de2e6cb3b29088c9e4cbc03bf9d42fb96ce2f75"
+  },
+  "q-io": {
+    "1.10.9": "90473f797398eb1208b7edd468ed1785ad7baacd"
+  },
+  "qs": {
+    "0.1.0": "9a0d2d70d01f63d3401ea4b050822601b462ee6b"
+  },
+  "read-installed": {
+    "0.0.1": "2d9b9086ae33ae42793210f519701169edabd2e2"
+  },
+  "read-package-json": {
+    "0.4.1": "a0e917cce8333444889543de9db2b1a4606baaa2"
+  },
+  "readable-stream": {
+    "1.0.25": "df19f64e6f74fd37ecf9d3ab8dbf1e2d11c9a045"
+  },
+  "resolve": {
+    "0.6.1": "b7fc874a8fe240b44de2c92b7f885a2e8598b652"
+  },
+  "semver": {
+    "1.0.14": "cac5e2d55a6fbf958cb220ae844045071c78f676",
+    "2.2.1": "7941182b3ffcc580bff1c17942acdf7951c0d213"
+  },
+  "sequencify": {
+    "0.0.7": "90cff19d02e07027fd767f5ead3e7b95d1e7380c"
+  },
+  "sigmund": {
+    "1.0.0": "66a2b3a749ae8b5fb89efd4fcc01dc94fbe02296"
+  },
+  "slide": {
+    "1.1.5": "31732adeae78f1d2d60a29b63baf6a032df7c25d"
+  },
+  "string_decoder": {
+    "0.10.25-1": "f387babd95d23a2bb73b1fbf2cb3efab6f78baab"
+  },
+  "strip-ansi": {
+    "0.1.1": "39e8a98d044d150660abe4a6808acf70bb7bc991"
+  },
+  "through": {
+    "2.3.4": "495e40e8d8a8eaebc7c275ea88c2b8fc14c56455"
+  },
+  "through2": {
+    "0.4.1": "afd849c65af513c2541a98a7cfbcfec3a15a9686"
+  },
+  "traceur": {
+    "0.0.20": "be3d26c4ba8a00f6962ee20271aca8ce2622d2df",
+    "0.0.24": "5bc8b6696cecd0efaaca7f24ccb2f54827536121"
+  },
+  "unique-stream": {
+    "0.0.3": "a5a19d2764588a4d608baff5889b5a60f18c705d"
+  },
+  "url2": {
+    "0.0.0": "4eaabd1d5c3ac90d62ab4485c998422865a04b1a"
+  },
+  "vinyl": {
+    "0.2.3": "bca938209582ec5a49ad538a00fa1f125e513252"
+  },
+  "vinyl-fs": {
+    "0.0.2": "51fabbee4bc002281e1661f9f58f0247010921d7"
+  },
+  "weak-map": {
+    "1.0.0": "b66e56a9df0bd25a76bbf1b514db129080614a37"
+  },
+  "xtend": {
+    "2.1.2": "6efecc2a4dad8e6962c4901b337ce7ba87b5d28b"
+  }
+}
