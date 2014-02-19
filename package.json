@@ -18,11 +18,15 @@
   },
   "devDependencies": {
     "gulp": "^3.5",
-    "gulp-traceur": "^0.1"
+    "gulp-traceur": "^0.1",
+    "lockdown": "^0.0"
   },
   "dependencies": {
     "Diary.js": "angular/diary.js",
     "di": "^2.0.0-pre-1",
-    "hydrogen-boosted-engine": "^0.0",
+    "hydrogen-boosted-engine": "^0.0"
+  }
+  "scripts": {
+    "preinstall": "lockdown"
   }
 }
